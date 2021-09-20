@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  margin-left: 10px;
+  color: #36d336;
+}
+
+input {
+  margin: 10px;
+}
+
+button {
+  margin-left: 30px;
+}
